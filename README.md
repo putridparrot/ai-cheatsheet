@@ -103,4 +103,4 @@ _Note: I'm not happy with the section names etc., but these have giving a starti
 | Term/Acronym | Description |
 |--------------|-------------|
 | [ACP (Agentic Commerce Protocol)](https://developers.openai.com/commerce/) | Open AI's open standard for AI commerce |
-| [AP2 (Agentic Payment Protocol)]([https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol]) | Google open standard for an AI payment system |
+| [AP2 (Agentic Payment Protocol)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) | Google open standard for an AI payment system |
