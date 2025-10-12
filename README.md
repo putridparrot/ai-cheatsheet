@@ -23,6 +23,8 @@ _Note: I'm not happy with the section names etc., but these have giving a starti
 | Multimodal AI | Models that process text, images, audio, and video together. |
 | Speech Recognition | AI which can turn human speech to input for AI models |
 | Computer Vision | Analysis of visual data. Used for facial recognition, image classification etc. |
+| (HRM) Hierarchical Reasoning Model | Ai architectire designed to solve complex reasoning |
+| (TRM) Tiny Recursive Model | A neural network architecture usig minimal computational resources |
 
 # Learning Paradigms and Algorithm Techniques
 
