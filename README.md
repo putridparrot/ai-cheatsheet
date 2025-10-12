@@ -1,6 +1,6 @@
 Artificial Intelligence is a generalised term that covers many areas. Fundamentally it's about using computers (and machines) to peform various tasks in a way that in the pre-Articial Intelligence world relied on humans such as identifying patterns, decision making, other forms of problem solving, often using learning techniques to carry our these tasks. 
 
-_Note: I'm not happy with the section names etc., but these have giving a starting point._
+_Note: I'm not happy with the section names etc., but these have giving a starting point - this is very much a first draft._
 
 
 # AI core concepts
@@ -18,7 +18,8 @@ _Note: I'm not happy with the section names etc., but these have giving a starti
 | Neural Network | A model inspired by the brain, consisting of layers of nodes (neurons). |
 | Dataset | A collection of data used to train, validate and test AI models. |
 | NPL (Natural Language Processing) | Understanding and generating human language. |
-| RAG (Retrieval-Augmented Generation) |  Combining LLMs with external knowledge sources for grounded answers. |
+| RAG (Retrieval-Augmented Generation) | Combining LLMs with external knowledge sources for grounded answers, i.e. allows the LLM to get upto data upon request and retrieval |
+| CAG (Cache-Augmented Generation) |  Like RAG except data is pre-loaded into a cache |
 | Multimodal AI | Models that process text, images, audio, and video together. |
 | Speech Recognition | AI which can turn human speech to input for AI models |
 | Computer Vision | Analysis of visual data. Used for facial recognition, image classification etc. |
